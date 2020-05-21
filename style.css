@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.pink-black {
+  background-color: pink;
+  border: 1px solid #000;
+}
+
+.darkpink-white {
+  background-color: #e75480;
+  border: 1px solid #fff;
+}
+
+.center {
+  text-align: center;
+}
+
+.height {
+  height: 200px;
+  line-height: 200px;
+}
+
+.margin {
+  margin: 4px;
+}
