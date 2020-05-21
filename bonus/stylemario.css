@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('sfondo.png');
+  background-size: cover;
+  background-position: bottom;
+}
+
+.all {
+  padding: 0 30%;
+}
+
+.riga:first-child {
+  margin-top: 40px;
+}
+
+.riga:last-child {
+  margin-bottom: 50px;
+}
+
+.height {
+  height: 48px;
+}
+
+.red {
+  background-color: #ff0100;
+}
+
+.brown {
+  background-color: #835a0a;
+}
+
+.pink {
+  background-color: #fdbc7e;
+}
+
+.blue {
+  background-color: #2700ff;
+}
+
+.yellow {
+  background-color: #faff00;
+}
+
+.grey {
+  background-color: #bbbbbb;
+}
+
+.black {
+  background-color: #000000;
+}
